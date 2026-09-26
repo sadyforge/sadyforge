@@ -1,73 +1,78 @@
-# Hi, I'm Sady Chowdhury 👋
+# Hi 👋, I'm Sady Chowdhury
 
-### 🚀 Web Developer | Frontend & Full-Stack Learner
-
-I'm a passionate Web Developer who enjoys building modern, responsive, and user-friendly web applications.
-
-I love turning ideas into real projects, solving programming problems, and continuously learning new technologies.
+### 🚀 Web Developer | React & Next.js
 
 ---
 
 ## 👨‍💻 About Me
 
-* 🌱 Currently improving my **Web Development** skills
-* 💻 Interested in **Frontend & Full-Stack Development**
-* 🚀 Building projects with **React & Next.js**
-* 📚 Learning **TypeScript, Node.js, Express & MongoDB**
-* 🧩 I enjoy problem-solving and learning by building real projects
+I'm a passionate Web Developer who enjoys building modern, responsive, and user-friendly web applications.
+
+I enjoy solving programming problems, learning new technologies, and turning ideas into real-world projects.
+
+Currently, I'm focused on improving my **Web Development** skills and growing toward a professional career in **Frontend and Full-Stack Development**.
+
+* 💻 Web Developer
+* 🌱 Continuously learning and improving
+* 🚀 Building real-world projects
+* 🧩 Interested in Frontend & Full-Stack Development
 * 📍 Sylhet, Bangladesh
 
 ---
 
-## 🛠️ Technologies & Tools
+## 🛠️ Tech Stack
 
 ### Frontend
 
-`HTML` `CSS` `JavaScript` `React` `Next.js` `TypeScript`
-
-### Styling
-
-`Tailwind CSS` `DaisyUI`
+![HTML5](https://img.shields.io/badge/HTML5-E34F26?style=for-the-badge\&logo=html5)
+![CSS3](https://img.shields.io/badge/CSS3-1572B6?style=for-the-badge\&logo=css3)
+![JavaScript](https://img.shields.io/badge/JavaScript-F7DF1E?style=for-the-badge\&logo=javascript)
+![React](https://img.shields.io/badge/React-20232A?style=for-the-badge\&logo=react)
+![Next.js](https://img.shields.io/badge/Next.js-000000?style=for-the-badge\&logo=next.js)
+![TypeScript](https://img.shields.io/badge/TypeScript-3178C6?style=for-the-badge\&logo=typescript)
+![Tailwind CSS](https://img.shields.io/badge/Tailwind_CSS-38BDF8?style=for-the-badge\&logo=tailwindcss)
 
 ### Backend & Database
 
-`Node.js` `Express.js` `MongoDB`
+![Node.js](https://img.shields.io/badge/Node.js-339933?style=for-the-badge\&logo=node.js)
+![Express.js](https://img.shields.io/badge/Express.js-000000?style=for-the-badge\&logo=express)
+![MongoDB](https://img.shields.io/badge/MongoDB-47A248?style=for-the-badge\&logo=mongodb)
 
 ### Tools
 
-`Git` `GitHub` `VS Code` `Vercel`
+![Git](https://img.shields.io/badge/Git-F05032?style=for-the-badge\&logo=git)
+![GitHub](https://img.shields.io/badge/GitHub-181717?style=for-the-badge\&logo=github)
+![VS Code](https://img.shields.io/badge/VS_Code-007ACC?style=for-the-badge\&logo=visual-studio-code)
 
 ---
 
-## 🚀 What I'm Working On
+## 🚀 What I'm Currently Working On
 
 * Building modern web applications
 * Improving my React & Next.js skills
-* Learning full-stack development
-* Exploring better ways to write clean and maintainable code
+* Learning Full-Stack Development
+* Working with APIs
+* Improving my TypeScript skills
+* Building real-world projects
+
+---
+
+## 📍 Location
+
+**Sylhet, Bangladesh 🇧🇩**
 
 ---
 
 ## 📊 GitHub Stats
 
-![Sady's GitHub Stats](https://github-readme-stats.vercel.app/api?username=YOUR_USERNAME\&show_icons=true\&theme=github_dark)
+![GitHub Stats](https://github-readme-stats.vercel.app/api?username=sadychowdhury590-cmyk\&show_icons=true\&theme=default)
+
+![Top Languages](https://github-readme-stats.vercel.app/api/top-langs/?username=sadychowdhury590-cmyk\&layout=compact\&theme=default)
 
 ---
 
-## 🔥 GitHub Streak
-
-![GitHub Streak](https://streak-stats.demolab.com?user=YOUR_USERNAME\&theme=github-dark)
+![Profile Views](https://komarev.com/ghpvc/?username=sadychowdhury590-cmyk\&style=flat-square)
 
 ---
 
-## 🤝 Connect With Me
-
-* 📧 Email: Your Email
-* 💼 LinkedIn: Your LinkedIn
-* 🌐 Portfolio: Your Portfolio
-
----
-
-### 💡 "Always learning. Always building. Always improving."
-
-Thanks for visiting my profile! ⭐
+### 💡 Always Learning. Always Building. Always Improving. 🚀
