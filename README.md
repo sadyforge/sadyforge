@@ -1,85 +1,135 @@
+<div align="center">
+
 # Hi 👋, I'm Sady Chowdhury
 
-### 🚀 Web Developer | React & Next.js
+### Full Stack Engineer | Cybersecurity Enthusiast
+
+Building modern web applications and exploring web application security.
+
+<p>
+  <a href="https://github.com/sadyforge">
+    <img src="https://img.shields.io/badge/GitHub-sadyforge-181717?style=for-the-badge&logo=github" alt="GitHub"/>
+  </a>
+  <a href="https://www.linkedin.com/in/sady-chowdhury-88398343a/">
+    <img src="https://img.shields.io/badge/LinkedIn-Connect-0A66C2?style=for-the-badge&logo=linkedin" alt="LinkedIn"/>
+  </a>
+</p>
+
+📍 Sylhet, Bangladesh
+
+</div>
 
 ---
 
 ## 👨‍💻 About Me
 
-I'm a passionate Web Developer who enjoys building modern, responsive, and user-friendly web applications.
+I'm Sady Chowdhury, a developer interested in building reliable, responsive, and user-friendly web applications.
 
-I enjoy solving programming problems, learning new technologies, and turning ideas into real-world projects.
-
-Currently, I'm focused on improving my **Web Development** skills and growing toward a professional career in **Frontend and Full-Stack Development**.
-
-* 💻 Web Developer
-* 🌱 Continuously learning and improving
-* 🚀 Building real-world projects
-* 🧩 Interested in Frontend & Full-Stack Development
-* 📍 Sylhet, Bangladesh
+- 💻 Focused on full-stack web development.
+- ⚛️ Working with React, Next.js, TypeScript, and Node.js.
+- 🔐 Interested in web application security and vulnerability assessment.
+- 🛡️ Exploring security monitoring, Linux, and defensive security practices.
+- 🧠 I believe in understanding concepts rather than memorizing code.
+- 🚀 Continuously learning by building practical projects.
 
 ---
 
 ## 🛠️ Tech Stack
 
-### Frontend
+### 🎨 Frontend Development
 
-![HTML5](https://img.shields.io/badge/HTML5-E34F26?style=for-the-badge&logo=html5)
-![CSS3](https://img.shields.io/badge/CSS3-1572B6?style=for-the-badge&logo=css3)
-![JavaScript](https://img.shields.io/badge/JavaScript-F7DF1E?style=for-the-badge&logo=javascript)
-![React](https://img.shields.io/badge/React-20232A?style=for-the-badge&logo=react)
-![React Native](https://img.shields.io/badge/React_Native-20232A?style=for-the-badge&logo=react)
-![Next.js](https://img.shields.io/badge/Next.js-000000?style=for-the-badge&logo=next.js)
-![TypeScript](https://img.shields.io/badge/TypeScript-3178C6?style=for-the-badge&logo=typescript)
-![Tailwind CSS](https://img.shields.io/badge/Tailwind_CSS-38BDF8?style=for-the-badge&logo=tailwindcss)
-![Bootstrap](https://img.shields.io/badge/Bootstrap-7952B3?style=for-the-badge&logo=bootstrap)
+<p>
+  <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/html5/html5-original.svg" width="42" alt="HTML5"/>
+  <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/css3/css3-original.svg" width="42" alt="CSS3"/>
+  <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/javascript/javascript-original.svg" width="42" alt="JavaScript"/>
+  <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/typescript/typescript-original.svg" width="42" alt="TypeScript"/>
+  <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/react/react-original.svg" width="42" alt="React"/>
+  <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/nextjs/nextjs-original.svg" width="42" alt="Next.js"/>
+  <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/tailwindcss/tailwindcss-original.svg" width="42" alt="Tailwind CSS"/>
+  <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/bootstrap/bootstrap-original.svg" width="42" alt="Bootstrap"/>
+</p>
 
-### Backend
+### ⚙️ Backend & Database
 
-![Node.js](https://img.shields.io/badge/Node.js-339933?style=for-the-badge&logo=node.js)
-![Express.js](https://img.shields.io/badge/Express.js-000000?style=for-the-badge&logo=express)
+<p>
+  <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/nodejs/nodejs-original.svg" width="42" alt="Node.js"/>
+  <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/express/express-original.svg" width="42" alt="Express.js"/>
+  <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/mongodb/mongodb-original.svg" width="42" alt="MongoDB"/>
+  <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/mysql/mysql-original.svg" width="42" alt="MySQL"/>
+</p>
 
-### Database
+### 🔐 Cybersecurity & Operating Systems
 
-![MongoDB](https://img.shields.io/badge/MongoDB-47A248?style=for-the-badge&logo=mongodb)
-![MySQL](https://img.shields.io/badge/MySQL-4479A1?style=for-the-badge&logo=mysql)
-![PostgreSQL](https://img.shields.io/badge/PostgreSQL-4169E1?style=for-the-badge&logo=postgresql)
+<p>
+  <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/linux/linux-original.svg" width="42" alt="Linux"/>
+  <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/bash/bash-original.svg" width="42" alt="Bash"/>
+</p>
 
-### Other Technologies
+- Web Application Security
+- Authentication & Authorization
+- Vulnerability Assessment
+- Security Monitoring with Wazuh
+- MITRE ATT&CK Fundamentals
 
-![Firebase](https://img.shields.io/badge/Firebase-FFCA28?style=for-the-badge&logo=firebase)
-![AWS](https://img.shields.io/badge/AWS-232F3E?style=for-the-badge&logo=amazon-aws)
-![Python](https://img.shields.io/badge/Python-3776AB?style=for-the-badge&logo=python)
+### 🧰 Tools & Platforms
 
----
-
-## 🚀 What I'm Currently Working On
-
-* Building modern web applications
-* Improving my React & Next.js skills
-* Learning Full-Stack Development
-* Working with APIs
-* Improving my TypeScript skills
-* Building real-world projects
-
----
-
-## 📍 Location
-
-**Sylhet, Bangladesh 🇧🇩**
-
----
-
-## 📊 GitHub Stats
-
-![GitHub Stats](https://github-readme-stats.vercel.app/api?username=sadychowdhury590-cmyk\&show_icons=true\&theme=default)
-
-![Top Languages](https://github-readme-stats.vercel.app/api/top-langs/?username=sadychowdhury590-cmyk\&layout=compact\&theme=default)
+<p>
+  <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/git/git-original.svg" width="42" alt="Git"/>
+  <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/github/github-original.svg" width="42" alt="GitHub"/>
+  <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/postman/postman-original.svg" width="42" alt="Postman"/>
+  <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/figma/figma-original.svg" width="42" alt="Figma"/>
+  <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/vercel/vercel-original.svg" width="42" alt="Vercel"/>
+</p>
 
 ---
 
-![Profile Views](https://komarev.com/ghpvc/?username=sadychowdhury590-cmyk\&style=flat-square)
+## 🚀 Featured Projects
+
+### 🛒 Bazardor — Grocery Price Application
+
+A Bangla grocery price application designed to help users explore grocery products and their prices.
+
+- **Tech:** Next.js, TypeScript, Tailwind CSS
+- **Features:** Product browsing, categories, and authentication.
+
+🔗 [Live Demo](https://bazardor-three-tau.vercel.app/)
+
+### 📰 TechPulse — Web Application
+
+A web project focused on building a modern user interface and practicing practical web development.
+
+🔗 [Live Demo](https://techpulse-app-rho.vercel.app/)
+
+### 🌍 Wanderlust — Travel Booking Application
+
+A travel application project for practicing CRUD operations, authentication, and database integration.
+
+- **Tech:** Next.js, Express.js, MongoDB
+- **Features:** Destinations, destination management, and bookings.
 
 ---
 
-### 💡 Always Learning. Always Building. Always Improving. 🚀
+## 📊 GitHub Statistics
+
+<div align="center">
+
+<img src="https://github-readme-stats.vercel.app/api?username=sadyforge&show_icons=true&hide_border=true&theme=transparent" alt="GitHub Statistics"/>
+
+<img src="https://github-readme-stats.vercel.app/api/top-langs/?username=sadyforge&layout=compact&hide_border=true&theme=transparent" alt="Most Used Languages"/>
+
+</div>
+
+---
+
+## 🤝 Connect With Me
+
+I'm interested in connecting with developers, learning from the community, and collaborating on meaningful projects.
+
+- **GitHub:** [@sadyforge](https://github.com/sadyforge)
+- **LinkedIn:** [Sady Chowdhury](https://www.linkedin.com/in/sady-chowdhury-88398343a/)
+
+<div align="center">
+
+### 💡 Learn. Build. Secure. Improve.
+
+</div>
