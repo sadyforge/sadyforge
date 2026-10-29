@@ -14,11 +14,13 @@
 
 ## 👨‍💻 About Me
 
-I'm Sady Chowdhury, a Full Stack Developer and Cybersecurity Enthusiast interested in building modern, responsive web applications and understanding application security.
+I'm Sady Chowdhury, a Full Stack Developer and Cybersecurity Enthusiast from Sylhet, Bangladesh. I enjoy building modern, responsive web applications and exploring how to make them more secure.
+
+I'm passionate about solving problems, learning new technologies, and understanding concepts rather than just memorizing code. I believe in continuous learning and improving my skills through hands-on projects and real-world challenges.
 
 - 💻 Full Stack Web Development
 - 🔐 Web Application Security
-- 🧠 Focused on understanding concepts rather than memorizing code
+- 🧠 Learning by understanding, not memorizing
 - 📍 Sylhet, Bangladesh
 
 ---
